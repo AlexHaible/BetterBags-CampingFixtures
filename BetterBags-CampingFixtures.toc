@@ -6,7 +6,7 @@
 ## Version: @project-version@
 ## X-Date: @project-date-iso@
 ## X-Category: Bags & Inventory
-## X-Curse-Project-ID: 
+## X-Curse-Project-ID: 1702805
 ## Dependencies: BetterBags
 ## SavedVariables: BetterBags_CampingFixturesDB
 ## IconTexture: Interface\Icons\inv_misc_bag_24_netherweave_imbued
