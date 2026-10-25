@@ -62,7 +62,9 @@ local campingFixtures = {
     -- Enchanting
     279976, 279985, 279987,
     -- Engineering
-    279950, 279949, 279989
+    279950, 279949, 279989,
+    -- Other
+    211527
 }
 
 configOptions = {
